@@ -1,0 +1,7 @@
+noun1= input("a noun")
+wacky state= input("a wacky state")
+verb1= input("a verb")
+noun2= input("a noun")
+persons name= input("a persons name")
+verb2= input("a verb")
+noun3= input("a noun")
